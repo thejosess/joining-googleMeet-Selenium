@@ -4,7 +4,8 @@ Program that allow you to join a meeting with Google Meet (and Google Gstuite) a
 
 ## Use
 
-Install selenium and Mozilla Web Driver (https://github.com/mozilla/geckodriver/releases)
+Install selenium and Mozilla Web Driver(https://github.com/mozilla/geckodriver/releases)
+
 
     python web.py
 
