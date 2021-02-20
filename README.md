@@ -15,4 +15,3 @@ AD_USERNAME = ""
 AD_PASSWORD = ""  
 AUTH_TIMES = 2  
 URL_GOOGLE = ""  
-URL_G_STUITE =  
