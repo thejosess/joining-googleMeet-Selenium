@@ -23,7 +23,6 @@ CLASS_CODE = ""
 EMAIL_ADDRESS = ""
 AD_USERNAME = ""
 AD_PASSWORD = ""
-AUTH_TIMES = 2
 URL_GOOGLE = "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#identifier"
 
 options = Options()
