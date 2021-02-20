@@ -16,5 +16,4 @@ CLASS_CODE = ""
 EMAIL_ADDRESS = ""   
 AD_USERNAME = ""   
 AD_PASSWORD = ""  
-AUTH_TIMES = 2  
 URL_GOOGLE = ""  
