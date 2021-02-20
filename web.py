@@ -17,7 +17,6 @@ from selenium.webdriver.common.by import By
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 print("Timestamp: " + datetime.datetime.now().strftime("%D  %H:%M:%S"))
 
-LOGIN_GO_UGR = False
 AUTOMATION_FAILED = False
 USE_FAILSAFE_PERCAUTIONS = True
 CLASS_CODE = ""
