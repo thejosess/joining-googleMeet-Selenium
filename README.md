@@ -4,6 +4,9 @@ Program that allow you to join a meeting with Google Meet (and Google Gstuite) a
 
 ## Use
 
+    
+    python web.py
+
 Edit these variable as you wish   
 
 LOGIN_GO_UGR = False   
